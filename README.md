@@ -14,3 +14,5 @@ In the end we reached the conclusion that the Fandango ratings are obviously too
 
 ## Machine Learning Concepts
 ### Linear Regression:
+we started with linear Regression considering the fact that it is one of the oldest algorithms developed in this domain.In that section of the course we covered the following topics:
+* Theory of Linear Regression (it was not uploaded since it is only about mathematical formulas of linear Regression)
