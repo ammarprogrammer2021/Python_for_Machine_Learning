@@ -15,4 +15,13 @@ In the end we reached the conclusion that the Fandango ratings are obviously too
 ## Machine Learning Concepts
 ### Linear Regression:
 we started with linear Regression considering the fact that it is one of the oldest algorithms developed in this domain.In that section of the course we covered the following topics:
-* Theory of Linear Regression (it was not uploaded since it is only about mathematical formulas of linear Regression)
+* Theory of Linear Regression (it was not uploaded since it is only about mathematical formulas of linear Regression).
+* Simple Implementation with Python.
+* Linear Regression with Scikit-learn.
+* Polynomial Regression.
+* Regularization.
+  
+The following subject was feature engineering and data preparation in which we learnt some simple and useful techniques to deal with some issues in data preparation such as Outliers in data, missing data and categorical data. In order to get a better idea how this is done in real world application. we had a data set called Ames_Housing_Data. In this Data Frame the target label is SalePrice and there are many other features like Living Area, Overall Quality, Overall Condition ect. This Data Set has the mentioned issues outliers, missing data , categorical data.
+In the folder missing data we walked through the some methods (Filling, Dropping Data based on rows, encoding options ect ) to alleviate thoses issues and get out data set ready for a machine learning model to train and predict the target label.
+
+after data preparation (data cleaning , splitting in train and test data, evatually scaling) we trained a linear regression model namely ElasticNet and did a GridSearch to choose the best values of the model's parameters (in our case alpha and l1_ratio) to get the best possible performance.
