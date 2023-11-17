@@ -11,3 +11,6 @@ it's been suspected that the website named Fandango overrates its movies in orde
 We compared the true ratings that Fandango holds in the backend and those that it actually displays the users to check for any discrepancies.also we compared with the ratings of other websites such as rotten tomatoes.
 
 In the end we reached the conclusion that the Fandango ratings are obviously too high even for movies that were poorly rated by other rating websites like TAKEN 3.
+
+## Machine Learning Concepts
+### Linear Regression:
