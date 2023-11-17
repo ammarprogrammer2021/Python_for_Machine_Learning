@@ -1,6 +1,8 @@
 # Python_for_Machine_Learning
 Basic and advanced implementations of Machine Learning Algorithms in Python.
 
+## Data Analysis 
+
 In the folder Data Analysis and Visualization. the summary of the basic knowledge that I learned  about the important python libraries such as pandas and seaborn for data analysis were presented. 
 
 In the Capstone Project using the basic knowledge we acquired about data analysis we tried to answer the question whether there is a conflict of interest of a website that both sells movie tickets and displays movie ratings.
